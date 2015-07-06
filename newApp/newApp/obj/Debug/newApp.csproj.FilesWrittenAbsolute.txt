@@ -1,0 +1,7 @@
+/Users/rahul/learnGit/learnGit/newApp/newApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/rahul/learnGit/learnGit/newApp/newApp/bin/Debug/newApp.dll.mdb
+/Users/rahul/learnGit/learnGit/newApp/newApp/bin/Debug/newApp.dll
+/Users/rahul/learnGit/learnGit/newApp/newApp/obj/Debug/newApp.dll
+/Users/rahul/learnGit/learnGit/newApp/newApp/obj/Debug/newApp.dll.mdb
+/Users/rahul/learnGit/learnGit/newApp/newApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/rahul/learnGit/learnGit/newApp/newApp/bin/Debug/Xamarin.Forms.Xaml.dll
